@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Gin.
 
 <!--
 **ginguan/ginguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjin-guan-a3bb51157)
+
+**I'm a New Grad of UOttawa**
+
+**I’m currently learning Angular, TypeScript:surfer:**
+
