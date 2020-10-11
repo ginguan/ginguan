@@ -46,3 +46,7 @@ https://github.com/ginguan/simpleTutorial***
 ***•	SM Travel Calling System: this is based on the Modelling and Simulation Study process to create High-level Conceptual Model using Java, detailed conceptual model and simulation program of a calling system to handle call request of a travel office. At the end, a set of experiments are designed and carried out with the simulation program that provides data sufficient to achieve the goals of the project. https://github.com/GabiRepare/SMTravel.git***
 
 ***•	Implement Machine Learning Algorithm for Predicting Online Bids are Made by Robot or Human: using MySQL to preprocess the dataset and using Jupyter Notebook for algorithm implementation.***
+
+***•	Implement Machine Learning Algorithm for Predicting Online Bids are Made by Robot or Human: using MySQL to preprocess the dataset and using Jupyter Notebook for algorithm implementation.***
+
+***•	Product Pricing from Crowdsourcing Data Mart: a project involving large scale of data for physical design of datamart, data staging, OLAP queries, business intelligence dashboard, and data visualization. Using Microsoft SQL, Knime.***
