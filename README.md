@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Gin. ##
+## Hi there 😄 , I'm Gin. ##
 
 <!--
 **ginguan/ginguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 **I am a new grad of Master of Computer Science in August 2020, and have more than 5 years experience
 of Java, Python programming and more than 5 year experience developing full stack web applications. I
 have completed different projects and web applications within a group or individually. Also, I have
-experience of implementing different algorithm using different programming language.**
+experience of implementing different algorithm using different programming language. I have learned how to work in Agile Jira environment to finish different backlog/sprint assigned.**
 
-**I’m currently learning Angular, TypeScript:surfer:**
+**I’m currently learning  TypeScript, AngularJS, Selenium :surfer:**
 
 ## Education ##
 **•	Honours Bachelor of Science - Engineering: Specialized in Computer Science -> September 2014 – June 2018**
@@ -30,14 +30,14 @@ experience of implementing different algorithm using different programming langu
 
 ## Project ##
 
-***•	Weather Website: a cross-platform smart weather application that indicates temperature changes compares to the previous day to give you a better understanding of your weather. Using DarkSky API,  Bootstrap, Node.js, CSS, and HTML, MongoDB.***
-
 ***•	Conference Travel Grant System Website: a website for user for conference travel grant with traveling location and tuition. Using Nodejs, Express.js, MongoDB ang jQuery. https://github.com/JerryFZhang/ConferenceTravelGrantSystem***
 
 ***•	Movie Database Website: a website allows user to search for movies/actors/directors and provides recommendation from different ranking, categories, set preferences, score the movies and write reviews. Using PHP, CSS, and HTML and SQL.***
 
 ***•	Tutorials Management Application: a web application allows users create, delete, search, update information of tutorials. Using HTML, Typescript, AngularJS.
 https://github.com/ginguan/simpleTutorial***
+
+***•	Weather Website: a web application that indicates temperature changes in the following few hours at customized location and compares weather of the previous day. Using weather API,  Bootstrap, Node.js, CSS, and HTML, MongoDB, JQuery.***
 
 ***•	Simple Car Rental System: a Java system that allows users to rent car for choosing dates, car model and get a total summary for final expenses.***
 
