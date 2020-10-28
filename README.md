@@ -21,7 +21,7 @@ of Java, Python programming and more than 5 year experience developing full stac
 have completed different projects and web applications within a group or individually. Also, I have
 experience of implementing different algorithm using different programming language. I have learned how to work in Agile Jira environment to finish different backlog/sprint assigned.**
 
-**I’m currently learning  TypeScript, AngularJS, Selenium :surfer:**
+**I’m currently learning Django⚡, TypeScript, AngularJS, Selenium :surfer:**
 
 ## Education ##
 **•	Honours Bachelor of Science - Engineering: Specialized in Computer Science -> September 2014 – June 2018**
