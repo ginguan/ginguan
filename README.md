@@ -47,6 +47,4 @@ https://github.com/ginguan/simpleTutorial***
 
 ***•	Implement Machine Learning Algorithm for Predicting Online Bids are Made by Robot or Human: using MySQL to preprocess the dataset and using Jupyter Notebook for algorithm implementation.***
 
-***•	Implement Machine Learning Algorithm for Predicting Online Bids are Made by Robot or Human: using MySQL to preprocess the dataset and using Jupyter Notebook for algorithm implementation.***
-
 ***•	Product Pricing from Crowdsourcing Data Mart: a project involving large scale of data for physical design of datamart, data staging, OLAP queries, business intelligence dashboard, and data visualization. Using Microsoft SQL, Knime.***
