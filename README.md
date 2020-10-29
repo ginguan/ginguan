@@ -25,7 +25,7 @@ experience of implementing different algorithm using different programming langu
 
 ## Project in Progress##
 
-***•🌱 A E-learning platform that use Django and Xadmin ***
+***•🌱 A E-learning platform that use Django and Xadmin https://github.com/ginguan/CoursePlatform.git***
 
 ***• A web application that creates an Angular frontend and write a back end in Node.js using hapi	https://github.com/ginguan/angularSite***
 
