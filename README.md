@@ -25,9 +25,10 @@ experience of implementing different algorithm using different programming langu
 
 ## Project in Progress##
 
+***•🌱 A E-learning platform that use Django and Xadmin ***
+
 ***• A web application that creates an Angular frontend and write a back end in Node.js using hapi	https://github.com/ginguan/angularSite***
 
-***•🌱 A E-learning platform that use Django and Xadmin https://github.com/ginguan/MessageProjectOct***
 
 ## Education ##
 **•	Honours Bachelor of Science - Engineering: Specialized in Computer Science -> September 2014 – June 2018**
