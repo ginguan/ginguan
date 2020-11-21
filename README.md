@@ -21,13 +21,11 @@ of computer programming including Java, Python and 3-year experience developing 
 completed different projects and web applications using HTML/CSS/JS skills and different JS
 frameworks and relational databases within a group or individually. I have learned how to work in Agile Jira environment to finish different backlog/sprint assigned.**
 
-**I’m currently learning Django⚡, TypeScript, AngularJS, Selenium :surfer:**
+**I’m currently learning TypeScript, AngularJS, Selenium :surfer:**
 
 ## Project in Progress##
 
 ***•🌱 A E-learning platform that use Django and Xadmin https://github.com/ginguan/CoursePlatform.git***
-
-***• A web application that creates an Angular frontend and write a back end in Node.js using hapi	https://github.com/ginguan/angularSite***
 
 
 ## Education ##
@@ -37,8 +35,8 @@ frameworks and relational databases within a group or individually. I have learn
 
 ## Project Done ##
 
-***•	Employee App: a mobile application that allows a company to store details on an employee information such as name,position,salary,picture, etc.
-includes camera access, uploading images, redux. Using React Native, Nodejs and express.js and mongoDB***
+***•	Employee App: a mobile application that allows a company to store details on an employee information such as name, position, salary, picture, etc.
+includes camera access, images upload, redux. Using React Native, Nodejs and express.js and mongoDB***
 
 ***•	Youbube Clone App: a mobile application that allows user to make clone of youtube app using youtube api.
 includes how to add dark mode, toggle button to toggle theme, redux. Using React Native***
