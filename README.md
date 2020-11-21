@@ -37,6 +37,17 @@ frameworks and relational databases within a group or individually. I have learn
 
 ## Project Done ##
 
+***•	Employee App: a mobile application that allows a company to store details on an employee information such as name,position,salary,picture, etc.
+includes camera access, uploading images, redux. Using React Native, Nodejs and express.js and mongoDB***
+
+***•	Youbube Clone App: a mobile application that allows user to make clone of youtube app using youtube api.
+includes how to add dark mode, toggle button to toggle theme, redux. Using React Native***
+
+***•	Weather Application: a mobile application that show the weather conditions of any city.
+includes autocomplete when user types, save city name on device storage. Using React Native***
+
+***•	Weather Website: a web application that indicates temperature changes in the following few hours at customized location and compares weather of the previous day. Using weather API,  Bootstrap, Node.js, CSS, and HTML, MongoDB, JQuery.***
+
 ***•	Conference Travel Grant System Website: a website for user for conference travel grant with traveling location and tuition. Using Nodejs, Express.js, MongoDB ang jQuery. https://github.com/JerryFZhang/ConferenceTravelGrantSystem***
 
 ***•	Movie Database Website: a website allows user to search for movies/actors/directors and provides recommendation from different ranking, categories, set preferences, score the movies and write reviews. Using PHP, CSS, and HTML and SQL.***
@@ -44,7 +55,6 @@ frameworks and relational databases within a group or individually. I have learn
 ***•	Tutorials Management Application: a web application allows users create, delete, search, update information of tutorials. Using HTML, Typescript, AngularJS.
 https://github.com/ginguan/simpleTutorial***
 
-***•	Weather Website: a web application that indicates temperature changes in the following few hours at customized location and compares weather of the previous day. Using weather API,  Bootstrap, Node.js, CSS, and HTML, MongoDB, JQuery.***
 
 ***•	Simple Car Rental System: a Java system that allows users to rent car for choosing dates, car model and get a total summary for final expenses.***
 
