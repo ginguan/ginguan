@@ -36,7 +36,7 @@ frameworks and relational databases within a group or individually. I have learn
 ## Project Done ##
 
 ***•	Employee App: a mobile application that allows a company to store details on an employee information such as name, position, salary, picture, etc.
-includes camera access, images upload, redux. Using React Native, Nodejs and express.js and mongoDB***
+includes camera access, images upload, redux. Using React Native, Nodejs and express.js and mongoDB https://github.com/ginguan/employeeapp***
 
 ***•	Youbube Clone App: a mobile application that allows user to make clone of youtube app using youtube api.
 includes how to add dark mode, toggle button to toggle theme, redux. Using React Native***
