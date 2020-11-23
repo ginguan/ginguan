@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 **I am a new grad of Master of Computer Science in August 2020. I have more than 5-year experience
 of computer programming including Java, Python and 3-year experience developing full stack web applications. I have
 completed different projects and web applications using HTML/CSS/JS skills and different JS
-frameworks and relational databases within a group or individually. I have learned how to work in Agile Jira environment to finish different backlog/sprint assigned.**
+frameworks and relational databases within a group or individually. 
+I have learned how to work in Agile Jira environment to finish different backlog/sprint assigned.**
 
 **I’m currently learning TypeScript, AngularJS, Selenium :surfer:**
 
