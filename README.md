@@ -24,7 +24,7 @@ I have learned how to work in Agile Jira environment to finish different backlog
 
 **I’m currently practicing TypeScript, ReactJS :surfer:**
 
-## Project in Progress##
+## Project in Progress ##
 
 ***•🌱 A E-learning platform that use Django and Xadmin https://github.com/ginguan/CoursePlatform.git***
 
@@ -54,13 +54,12 @@ includes autocomplete when user types, save city name on device storage. Using R
 ***•	Tutorials Management Application: a web application allows users create, delete, search, update information of tutorials. Using HTML, Typescript, AngularJS.
 https://github.com/ginguan/simpleTutorial***
 
-
 ***•	Simple Car Rental System: a Java system that allows users to rent car for choosing dates, car model and get a total summary for final expenses.***
 
 ***•	Football Tournament Application: an android application that allows users to set and fill information for the knockout, round robin and knockout round robin tournaments. Frontend using Android Studio with XML and backend using Java programming.***
 
 ***•	SM Travel Calling System: this is based on the Modelling and Simulation Study process to create High-level Conceptual Model using Java, detailed conceptual model and simulation program of a calling system to handle call request of a travel office. At the end, a set of experiments are designed and carried out with the simulation program that provides data sufficient to achieve the goals of the project. https://github.com/GabiRepare/SMTravel.git***
 
-***•	Implement Machine Learning Algorithm for Predicting Online Bids are Made by Robot or Human: using MySQL to preprocess the dataset and using Jupyter Notebook for algorithm implementation.***
+***•	Implement Machine Learning Algorithm for Predicting Online Bids are Made by Robot or Human: using MySQL to preprocess the dataset and using Jupyter Notebook(Python) for algorithm implementation.***
 
 ***•	Product Pricing from Crowdsourcing Data Mart: a project involving large scale of data for physical design of datamart, data staging, OLAP queries, business intelligence dashboard, and data visualization. Using Microsoft SQL, Knime.***
