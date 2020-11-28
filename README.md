@@ -22,7 +22,7 @@ completed different projects and web applications using HTML/CSS/JS skills and d
 frameworks and relational databases within a group or individually. 
 I have learned how to work in Agile Jira environment to finish different backlog/sprint assigned.**
 
-**I’m currently learning TypeScript, AngularJS, Selenium :surfer:**
+**I’m currently practicing TypeScript, ReactJS :surfer:**
 
 ## Project in Progress##
 
@@ -37,10 +37,10 @@ I have learned how to work in Agile Jira environment to finish different backlog
 ## Project Done ##
 
 ***•	Employee App: a mobile application that allows a company to store details on an employee information such as name, position, salary, picture, etc.
-includes camera access, images upload, redux. Using React Native, Nodejs and express.js and mongoDB https://github.com/ginguan/employeeapp***
+includes camera access, images upload, redux. Using React Native (including use of react navigation, vector-icon, react native paper,etc), Nodejs and express.js and mongoDB https://github.com/ginguan/employeeapp***
 
 ***•	Youbube Clone App: a mobile application that allows user to make clone of youtube app using youtube api.
-includes how to add dark mode, toggle button to toggle theme, redux. Using React Native***
+includes how to add dark mode, toggle button to toggle theme, redux. Using React Native, including use of react navigation, vector-icon, react native paper,etc***
 
 ***•	Weather Application: a mobile application that show the weather conditions of any city.
 includes autocomplete when user types, save city name on device storage. Using React Native***
