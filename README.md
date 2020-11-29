@@ -40,7 +40,7 @@ I have learned how to work in Agile Jira environment to finish different backlog
 includes camera access, images upload, redux. Using React Native (including use of react navigation, vector-icon, react native paper,etc), Nodejs and express.js and mongoDB https://github.com/ginguan/employeeapp***
 
 ***•	Youbube Clone App: a mobile application that allows user to make clone of youtube app using youtube api.
-includes how to add dark mode, toggle button to toggle theme, redux. Using React Native, including use of react navigation, vector-icon, react native paper,etc***
+includes how to add dark mode, toggle button to toggle theme, redux. Using React Native, including use of react navigation, vector-icon, react native paper,etc https://github.com/ginguan/youtube-clone***
 
 ***•	Weather Application: a mobile application that show the weather conditions of any city.
 includes autocomplete when user types, save city name on device storage. Using React Native***
