@@ -48,6 +48,8 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 •	Weather Website: a cross-platform smart weather application that indicates temperature changes compares to the previous day to give you a better understanding of your weather. Using DarkSky API, Bootstrap, Node.js, CSS, and HTML, MongoDB. 
 
+•	Amazon Clone Website: an ECommerce website that looks similar to Amazon, with product list and information, allow clients to modify shopping cart and submit shipping address and pay via PayPal. Using Nodejs, ReactJS, Redux, MongoDB.
+
 ## MOBILE APP PROJECTS ## 
 
 •	Employee Mobile App: a mobile application that allows a company to store details on an employee information such as name, position, salary, picture, etc. includes camera access, images upload. Using React Native, Node.js and express.js and MongoDB. https://github.com/ginguan/employeeapp
