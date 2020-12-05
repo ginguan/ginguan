@@ -37,8 +37,11 @@ I am a team player and decision maker. My result-oriented background trained me 
 **•	Honours Bachelor of Science - Engineering: Specialized in Computer Science -> September 2014 – June 2018**
 
 ## SKILLS ##
+
 •	Programming Languages:  Python, Java, HTML5, XML, CSS, JavaScript, TypeScript, PHP, SQL, Scala, Go, C++
+
 •	Database management: PostgreSQL, Microsoftsql, MySQL, GraphQL
+
 •	Technologies/Tools: Operating Systems (Linux, Windows, MacOS), Git, Android Studio, React Native, Visual Studio, Eclipse, NodeJS, ExpressJS, AngularJS, ReactJS, MongoDB, Jira, Postman, Kubernetes.
 
 
