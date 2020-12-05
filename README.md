@@ -23,7 +23,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 **You can contact me at: 📫 yguan074@uottawa.ca .**
 
-**I’m currently practicing TypeScript, ReactJS :surfer:**
+**I’m currently practicing TypeScript, React, Scala :surfer:**
 
 ## PEOJECT IN PROGRESS ##
 
@@ -35,6 +35,12 @@ I am a team player and decision maker. My result-oriented background trained me 
 **•	Master of Computer Science ->                                                               September 2018 – August 2020**
 
 **•	Honours Bachelor of Science - Engineering: Specialized in Computer Science -> September 2014 – June 2018**
+
+## SKILLS ##
+•	Programming Languages:  Python, Java, HTML5, XML, CSS, JavaScript, TypeScript, PHP, SQL, Scala, Go, C++
+•	Database management: PostgreSQL, Microsoftsql, MySQL, GraphQL
+•	Technologies/Tools: Operating Systems (Linux, Windows, MacOS), Git, Android Studio, React Native, Visual Studio, Eclipse, NodeJS, ExpressJS, AngularJS, ReactJS, MongoDB, Jira, Postman, Kubernetes.
+
 
 ## PROJECTS DONE ##
 
@@ -48,7 +54,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 •	Weather Website: a cross-platform smart weather application that indicates temperature changes compares to the previous day to give you a better understanding of your weather. Using DarkSky API, Bootstrap, Node.js, CSS, and HTML, MongoDB. 
 
-•	Amazon Clone Website: an ECommerce website that looks similar to Amazon, with product list and information, allow clients to modify shopping cart and submit shipping address and pay via PayPal. Using Nodejs, ReactJS, Redux, MongoDB.
+•	Amazon Clone Website: an ECommerce website that looks similar to Amazon, with product list and information, allow clients to modify shopping cart and submit shipping address and pay. Using Nodejs, ReactJS, Redux, MongoDB.
 
 ## MOBILE APP PROJECTS ## 
 
