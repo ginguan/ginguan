@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 of Java programming and 3-year experience developing full stack applications. I have completed different applications using HTML/CSS/JS skills and different JS frameworks and relational databases within a group or individually. Also, I have learned how to work in Agile environment to finish different sprints assigned. 
 I am a team player and decision maker. My result-oriented background trained me work in a high-quality performance. fast paced and pressurized environment. A high EQ personality and analytical skills allows me to listen and evaluate carefully in order to achieve the goal.**
 
-**You can contact me at: 📫 yguan074@uottawa.ca .**
+**You can contact me at: 📫 ginalynguan@gmail.com .**
 
 **I’m currently practicing TypeScript, React, Scala :surfer:**
 
