@@ -27,6 +27,8 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 ## PEOJECT IN PROGRESS ##
 
+***•🌱 A ticketing website that use React and NodeJS https://github.com/ginguan/Ticket_APP***
+
 ***•🌱 A E-learning platform that use Django and Xadmin https://github.com/ginguan/CoursePlatform.git***
 
 
