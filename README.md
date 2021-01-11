@@ -85,3 +85,11 @@ https://github.com/xtstc131/CSI5147_Final_Project
 •	Tutorials Management Application: a web application allows users create, delete, search, update information of tutorials. Using **HTML, Typescript, AngularJS**. https://github.com/ginguan/simpleTutorial
 
 •	Car Rental System: A simple **Java** system that allows users to rent car for choosing dates, car model and get a total summary for final expenses. 
+
+## FUN FACT ##
+
+I am extremely unlucky and lucky to have a car crush and survive on Jan 1st, 2021, so if I reply late, I may probably dealing with my insurance company and claims... I am and I will continue living with positive attitude and hope everyone having a good day :yellow_heart:
+
+<img src="survive.jpg" width="30%" height="30%">
+
+
