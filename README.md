@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjin-guan-a3bb51157)
+[![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjinguan)
 
 
 **I am a new grad of Master of Computer Science in August 2020. I have more than 5-year experience
