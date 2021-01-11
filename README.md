@@ -71,7 +71,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 •	SM Travel Calling System: this is based on the Modelling and Simulation Study process to create High-level Conceptual Model using **Java**, detailed conceptual model and simulation program of a calling system to handle call request of a travel office. At the end, a set of experiments are designed and carried out with the simulation program that provides data sufficient to achieve the goals of the project. https://github.com/GabiRepare/SMTravel.git
 
-•	Unity 3D Game: 3D ball balance game using **Unity 3D** and **C# **.   
+•	Unity 3D Game: 3D ball balance game using **Unity 3D** and **C#**.   
 https://github.com/xtstc131/CSI5147_Final_Project
 
 •	Facial Landmark Detection and Face Mesh Export: using iOS device to detect human face and analyze facial features and export 3D face mesh. Modify face mesh deformation using **Python**.
