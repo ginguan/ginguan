@@ -34,6 +34,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 ## DAYLIY MINI PROJECTS ##
 
 From Jan 15th, a mini project is built for practicing everyday
+https://github.com/ginguan/mini_project
 
 ## EDUCATION ##
 
