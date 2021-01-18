@@ -5,14 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjinguan)
 
@@ -31,10 +23,6 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 ***•🌱 A E-learning platform that use Django and Xadmin https://github.com/ginguan/CoursePlatform.git***
 
-## DAYLIY MINI PROJECTS ##
-
-From Jan 15th, a mini project is built for practicing everyday
-https://github.com/ginguan/mini_project
 
 ## EDUCATION ##
 
@@ -60,8 +48,9 @@ https://github.com/ginguan/mini_project
 •	Conference Travel Grant System Website: a website for user for conference travel grant with traveling location and tuition. Using **Nodejs, Express.js, MongoDB** ang **jQuery**. https://github.com/JerryFZhang/ConferenceTravelGrantSystem
 
 •	Weather Website: a cross-platform smart weather application that indicates temperature changes compares to the previous day to give you a better understanding of your weather. Using **DarkSky API, Bootstrap, Node.js, CSS,** and **HTML, MongoDB**. 
-
+<!--
 •	Amazon Clone Website: an ECommerce website that looks similar to Amazon, with product list and information, allow clients to modify shopping cart and submit shipping address and pay. Using **Nodejs**, **ReactJS**, **Redux**, **MongoDB**.
+-->
 
 ## MOBILE APP PROJECTS ## 
 
@@ -91,6 +80,11 @@ https://github.com/xtstc131/CSI5147_Final_Project
 •	Tutorials Management Application: a web application allows users create, delete, search, update information of tutorials. Using **HTML, Typescript, AngularJS**. https://github.com/ginguan/simpleTutorial
 
 •	Car Rental System: A simple **Java** system that allows users to rent car for choosing dates, car model and get a total summary for final expenses. 
+
+## MINI PROJECTS ##
+
+From Jan 15th, a mini project is built for practicing everyday for practicing HTML, CSS, JavaScript
+https://github.com/ginguan/mini_project
 
 ## FUN FACT ##
 
