@@ -77,11 +77,13 @@ https://github.com/xtstc131/CSI5147_Final_Project
 
 ## SOME SMALL PROJECTS ##
 
+• A webpage that can search OMDB api for movies, and allow the user to save their favourite movies they feel should be up for nomination (Up to 5 nominations).  Using **HTML, Typescript, ReactJS** You can check the web page here: https://ginguan.github.io/Movie_Award/
+
 •	Tutorials Management Application: a web application allows users create, delete, search, update information of tutorials. Using **HTML, Typescript, AngularJS**. https://github.com/ginguan/simpleTutorial
 
 •	Car Rental System: A simple **Java** system that allows users to rent car for choosing dates, car model and get a total summary for final expenses. 
 
-## MINI PROJECTS ##
+### MINI PROJECTS ###
 
 From Jan 15th, a mini project is built for practicing everyday for practicing HTML, CSS, JavaScript
 https://github.com/ginguan/mini_project
