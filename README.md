@@ -88,9 +88,9 @@ https://github.com/xtstc131/CSI5147_Final_Project
 From Jan 15th, a mini project is built for practicing everyday for practicing HTML, CSS, JavaScript
 https://github.com/ginguan/mini_project
 
-## FUN FACT ##
+### Life Story Sharing ###
 
-I am extremely unlucky and lucky to have a car crush and survive on Jan 1st, 2021, so if I reply late, I may probably dealing with my insurance company and claims... I am and I will continue living with positive attitude and hope everyone having a good day :yellow_heart:
+I was extremely unlucky and lucky to have a car crush and survive on Jan 1st, 2021, so if I reply late, I may probably dealing with my insurance company and claims... I am and I will continue living with positive attitude and hope everyone having a good day :yellow_heart: 
 
 <img src="survive.jpg" width="30%" height="30%">
 
