@@ -52,6 +52,10 @@ I am a team player and decision maker. My result-oriented background trained me 
 •	Amazon Clone Website: an ECommerce website that looks similar to Amazon, with product list and information, allow clients to modify shopping cart and submit shipping address and pay. Using **Nodejs**, **ReactJS**, **Redux**, **MongoDB**.
 -->
 
+• Movie Award Web: A webpage that can search OMDB api for movies, and allow the user to save their favourite movies they feel should be up for nomination (Up to 5 nominations).  Using **HTML, Typescript, ReactJS** You can check the web page here: https://ginguan.github.io/Movie_Award/
+
+•	Tutorials Management Application: a web application allows users create, delete, search, update information of tutorials. Using **HTML, Typescript, AngularJS**. https://github.com/ginguan/simpleTutorial
+
 ## MOBILE APP PROJECTS ## 
 
 •	Employee Mobile App: a mobile application that allows a company to store details on an employee information such as name, position, salary, picture, etc. includes camera access, images upload. Using **React Native, Node.js and express.js** and **MongoDB**. https://github.com/ginguan/employeeapp
@@ -74,12 +78,6 @@ https://github.com/xtstc131/CSI5147_Final_Project
 •	 Implement Machine Learning Algoithm for Predicting Online Bids are Made by Robot or Human: using **MySQL** to preprocess the dataset and using Jupyter Notebook(**Python**) for algorithm implementation. 
 
 •	Product Pricing from Crowdsourcing Data Mart: a project involving large scale dataset for physical design of datamart, data staging, OLAP queries, business intelligence dashboard, and data visualization. Using **Microsoft SQL, Knime**. 
-
-## SOME SMALL PROJECTS ##
-
-• A webpage that can search OMDB api for movies, and allow the user to save their favourite movies they feel should be up for nomination (Up to 5 nominations).  Using **HTML, Typescript, ReactJS** You can check the web page here: https://ginguan.github.io/Movie_Award/
-
-•	Tutorials Management Application: a web application allows users create, delete, search, update information of tutorials. Using **HTML, Typescript, AngularJS**. https://github.com/ginguan/simpleTutorial
 
 •	Car Rental System: A simple **Java** system that allows users to rent car for choosing dates, car model and get a total summary for final expenses. 
 
