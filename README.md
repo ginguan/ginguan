@@ -36,7 +36,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 •	Database management: PostgreSQL, Microsoftsql, MySQL
 
-•	Technologies/Tools: Operating Systems (Linux, Windows, MacOS), Git, Android Studio, React Native, Visual Studio, Eclipse, NodeJS, ExpressJS, AngularJS, ReactJS, MongoDB, Jira, Postman, Docker, Kubernetes.
+•	Technologies/Tools: Operating Systems (Linux, Windows, MacOS), Git, Android Studio, React Native, Visual Studio, Eclipse, NodeJS, ExpressJS, AngularJS, ReactJS, MongoDB, Jira, Postman, Docker, Kubernetes, Adobe XD.
 
 
 ## PROJECTS DONE ##
