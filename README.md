@@ -42,6 +42,8 @@ I am a team player and decision maker. My result-oriented background trained me 
 ## PROJECTS DONE ##
 
 ## WEB APP PROJECTS ##
+•	Music Product Website: A frontend design web with 3 pages (intro, pricing, payment) with animation features. Using **ReactJS, HTML, CSS, JavaScript**
+https://github.com/ginguan/exp
 
 •	Movie Database Website: a website allows user to search for movies/actors/directors and provides recommendation from different ranking, categories, set preferences, score the movies and write reviews. Using **PHP** to connect database and backend, **CSS, and HTML for frontend** and **PostgreSQL**.
 
