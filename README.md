@@ -45,6 +45,8 @@ I am a team player and decision maker. My result-oriented background trained me 
 •	Music Product Website: A frontend design web with 3 pages (intro, pricing, payment) with animation features. Using **ReactJS, HTML, CSS, JavaScript**
 https://github.com/ginguan/exp
 
+•	Login Pages: Website allow user to signup and signin using username, email, password and profile picture. The front-end is created with React Redux, React Router, Axios. Using **ReactJS, Express, HTML, CSS, JavaScript, Mongo atlas, JSON Web Token Authentication**
+
 •	Movie Database Website: a website allows user to search for movies/actors/directors and provides recommendation from different ranking, categories, set preferences, score the movies and write reviews. Using **PHP** to connect database and backend, **CSS, and HTML for frontend** and **PostgreSQL**.
 
 •	Conference Travel Grant System Website: a website for user for conference travel grant with traveling location and tuition. Using **Nodejs, Express.js, MongoDB** ang **jQuery**. https://github.com/JerryFZhang/ConferenceTravelGrantSystem
