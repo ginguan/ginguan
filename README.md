@@ -96,5 +96,3 @@ I was extremely unlucky and lucky to have a car crush and survive on Jan 1st, 20
 
 <img src="survive.jpg" width="30%" height="30%">
 
-
-<script src="https://embed.github.com/view/3d/ginguan/ginguan/ginguan-2020.stl"></script>
