@@ -88,7 +88,8 @@ https://github.com/xtstc131/CSI5147_Final_Project
 
 ### Life Story Sharing ###
 
-I was extremely unlucky and lucky to have a car crush and survive on Jan 1st, 2021, so if I reply late, I may probably dealing with my insurance company and claims... I am and I will continue living with positive attitude and hope everyone having a good day :yellow_heart: 
+An extremely unlucky and lucky accident :yellow_heart: 
 
 <img src="survive.jpg" width="30%" height="30%">
+
 
