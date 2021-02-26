@@ -86,10 +86,5 @@ https://github.com/xtstc131/CSI5147_Final_Project
 •	Car Rental System: A simple **Java** system that allows users to rent car for choosing dates, car model and get a total summary for final expenses. 
 
 
-### Life Story Sharing ###
-
-An extremely unlucky and lucky accident :yellow_heart: 
-
-<img src="survive.jpg" width="30%" height="30%">
 
 
