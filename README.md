@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjinguan)
 
 
-**I am a new grad of Master of Computer Science in August 2020. I have more than 5-year experience
-of Java programming and 3-year experience developing full stack applications. I have completed different applications using HTML/CSS/JS skills and different JS frameworks and relational databases within a group or individually. Also, I have learned how to work in Agile environment to finish different sprints assigned. 
+**I am a new grad of Master of Computer Science in August 2020 and I am currently working as a full stack developer. I have more than 5-year experience
+of programming and 3-year experience developing full stack applications. I have completed different applications using HTML/CSS/JS skills and different JS frameworks and relational databases within a group or individually. 
 I am a team player and decision maker. My result-oriented background trained me work in a high-quality performance. fast paced and pressurized environment. A high EQ personality and analytical skills allows me to listen and evaluate carefully in order to achieve the goal.**
 
 **You can contact me at: 📫 ginalynguan@gmail.com .**
@@ -23,6 +23,9 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 ***•🌱 A E-learning platform that use Django and Xadmin https://github.com/ginguan/CoursePlatform.git***
 
+## WORK EXPERIENCE ##
+
+**Full Stack Developer / Yoppworks Inc. ->                                                               March 2021 – Present**
 
 ## EDUCATION ##
 
