@@ -15,6 +15,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 **You can contact me at: 📫 ginalynguan@gmail.com .**
 
+
 **I’m currently practicing React, Scala :surfer:**
 
 ## PEOJECT IN PROGRESS ##
@@ -86,6 +87,5 @@ https://github.com/xtstc131/CSI5147_Final_Project
 
 •	Car Rental System: A simple **Java** system that allows users to rent car for choosing dates, car model and get a total summary for final expenses. 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginguan&layout=compact&show_icons=true)](https://github.com/ginguan/github-readme-stats)
 
