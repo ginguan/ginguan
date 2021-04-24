@@ -15,13 +15,13 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 **You can contact me at: 📫 ginalynguan@gmail.com .**
 
-**I’m currently practicing TypeScript, React, Scala :surfer:**
+**I’m currently practicing React, Scala :surfer:**
 
 ## PEOJECT IN PROGRESS ##
 
 ***•🌱 A Blog website that use React and NodeJS (practicing with microservice architecture) https://github.com/ginguan/blog***
 
-***•🌱 A E-learning platform that use Django and Xadmin https://github.com/ginguan/CoursePlatform.git***
+***•🌱 A Yelp-alike mobile app https://github.com/ginguan/Review**
 
 ## WORK EXPERIENCE ##
 
@@ -35,11 +35,9 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 ## SKILLS ##
 
-•	Programming Languages:  Python, Java, HTML5, XML, CSS, JavaScript, TypeScript, PHP, SQL, Scala, Go, C++, GraphQL
+•	Programming Languages:  Python, Java, Scala, JavaScript, TypeScript, HTML5, XML, CSS, PHP, SQL, , Go, C++, GraphQL
 
-•	Database management: PostgreSQL, Microsoftsql, MySQL
-
-•	Technologies/Tools: Operating Systems (Linux, Windows, MacOS), Git, Android Studio, React Native, Visual Studio, Eclipse, NodeJS, ExpressJS, AngularJS, ReactJS, MongoDB, Jira, Postman, Docker, Kubernetes, Adobe XD.
+•	Technologies/Tools: Operating Systems (Linux, Windows, MacOS), PostgreSQL, Microsoftsql, MySQL, Git, Android Studio, React Native, NodeJS, ExpressJS, AngularJS, ReactJS, MongoDB, Jira, Postman, Docker, Kubernetes, Visual Studio, Eclipse, Adobe XD.
 
 
 ## PROJECTS DONE ##
