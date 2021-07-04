@@ -20,9 +20,9 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 ## PEOJECT WIP ##
 
-***•🌱 A Blog website that use React and NodeJS (practicing with microservice architecture) https://github.com/ginguan/blog***
+***🌱 A Blog website that use React and NodeJS (practicing with microservice architecture) https://github.com/ginguan/blog***
 
-***•🌱 A Yelp-alike mobile app https://github.com/ginguan/Review**
+***🌱 A Yelp-alike mobile app https://github.com/ginguan/Review***
 
 ## WORK EXPERIENCE ##
 
