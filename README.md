@@ -18,7 +18,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 **I’m currently practicing React, Scala :surfer:**
 
-## PEOJECT IN PROGRESS ##
+## PEOJECT WIP ##
 
 ***•🌱 A Blog website that use React and NodeJS (practicing with microservice architecture) https://github.com/ginguan/blog***
 
