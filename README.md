@@ -16,7 +16,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 **You can contact me at: 📫 ginalynguan@gmail.com .**
 
 
-**I’m currently practicing SpringBoot :surfer:**
+**I’m currently practicing Spring Boot :surfer:**
 
 ## PEOJECT WIP ##
 
@@ -27,6 +27,12 @@ I am a team player and decision maker. My result-oriented background trained me 
 ## WORK EXPERIENCE ##
 
 **Full Stack Developer / Yoppworks Inc. ->                                                               March 2021 – Present**
+- Develop mobile applications and web applications using performant, scalable and productive languages including Scala, JavaScript, CSS etc and frameworks including React, React Native.
+- Work as a full stack developer of billie team.
+- Testing the system to ensure functionality and performance.
+- Contribute to project teams by communicating, committing, code review, code pairing.
+- Active participation in troubleshooting, debugging and updating the current products.
+
 
 ## EDUCATION ##
 
@@ -36,9 +42,12 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 ## SKILLS ##
 
-•	Programming Languages:  Python, Java, Scala, JavaScript, TypeScript, HTML5, XML, CSS, PHP, SQL, , Go, C++, GraphQL
+•	Programming Languages:  Java, Scala, JavaScript, Python, TypeScript, HTML5, XML, CSS, PHP, SQL, , Go, C++, GraphQL, Bash
 
-•	Technologies/Tools: Operating Systems (Linux, Windows, MacOS), PostgreSQL, Microsoftsql, MySQL, Git, Android Studio, React Native, NodeJS, ExpressJS, AngularJS, ReactJS, MongoDB, Jira, Postman, Docker, Kubernetes, Visual Studio, Eclipse, Adobe XD.
+•	Technologies/Tools: SQL and NoSQL databases, Git, NodeJS, ExpressJS, AngularJS, ReactJS, Android Studio, React Native, Django, Agile(Jira), Docker, Kubernetes, Google cloud platform, Microservices, Jest, kafka, ElasticSearch, Spring Boot.
+
+•	Manual/Automated Testing Skills: System & Unit Testing, Regression Testing, Load Testing, Test Cases, Plans & Scripts, Tracking, Logging & Reporting, Test Strategies & Coverages
+
 
 
 ## PROJECTS DONE ##
