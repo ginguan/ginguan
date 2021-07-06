@@ -67,7 +67,7 @@ https://github.com/ginguan/exp
 •	Amazon Clone Website: an ECommerce website that looks similar to Amazon, with product list and information, allow clients to modify shopping cart and submit shipping address and pay. Using **Nodejs**, **ReactJS**, **Redux**, **MongoDB**.
 -->
 
-•	TV Show Management Website: an website that allows users to manage TV shows (create, delete, search, update information of tv shows), Using **React, Redux, Spring Boot, PostgreSQL, Java, JavaScript.**
+•	TV Show Management Website: an website that allows users to manage TV shows (create, delete, search, update information of tv shows), Using **React, Redux, Spring Boot, PostgreSQL, Java, JavaScript.** https://github.com/ginguan/CRUD_Practice_Frontend https://github.com/ginguan/CRUD_Practice_Backend
 
 • Movie Award Web: A webpage that can search OMDB api for movies, and allow the user to save their favourite movies they feel should be up for nomination (Up to 5 nominations).  Using **HTML, Typescript, ReactJS** You can check the web page here: https://ginguan.github.io/Movie_Award/
 
