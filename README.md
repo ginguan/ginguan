@@ -16,7 +16,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 **You can contact me at: 📫 ginalynguan@gmail.com .**
 
 
-**I’m currently practicing Spring Boot :surfer:**
+**I’m currently learning Spring Boot, Flutter :surfer:**
 
 ## PEOJECT WIP ##
 
