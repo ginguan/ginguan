@@ -20,15 +20,12 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 ## PEOJECT WIP ##
 
-***🌱 A Blog website that use React and NodeJS (practicing with microservice architecture) https://github.com/ginguan/blog***
-
 ***🌱 A Yelp-alike mobile app https://github.com/ginguan/Review***
 
 ## WORK EXPERIENCE ##
 
 **Full Stack Developer / Yoppworks Inc. ->                                                               March 2021 – Present**
 - Develop mobile applications and web applications using performant, scalable and productive languages including Scala, JavaScript, CSS etc and frameworks including React, React Native.
-- Work as a full stack developer of billie team.
 - Testing the system to ensure functionality and performance.
 - Contribute to project teams by communicating, committing, code review, code pairing.
 - Active participation in troubleshooting, debugging and updating the current products.
