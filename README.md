@@ -52,28 +52,28 @@ I am a team player and decision maker. My result-oriented background trained me 
 ## WEB APP PROJECTS ##
 •	<a href="https://github.com/ginguan/UI_Practice.git"  target="_blank">Music Product Website</a>: A frontend design web with 3 pages (intro, pricing, payment) with animation features. Using **ReactJS, HTML, CSS, JavaScript**
 
-•	Login Pages: Website allow user to signup and signin using username, email, password and profile picture. The front-end is created with React Redux, React Router, Axios. Using **ReactJS, Express, HTML, CSS, JavaScript, Mongo atlas, JSON Web Token Authentication** https://github.com/ginguan/react_login.git
+•	<a href="https://github.com/ginguan/react_login.git"  target="_blank">JWT Authentication System</a>: Website allow user to signup and signin using username, email, password and profile picture. The front-end is created with React Redux, React Router, Axios. Using **ReactJS, Express, HTML, CSS, JavaScript, Mongo atlas, JSON Web Token Authentication** 
 
 •	Movie Database Website: a website allows user to search for movies/actors/directors and provides recommendation from different ranking, categories, set preferences, score the movies and write reviews. Using **PHP** to connect database and backend, **CSS, and HTML for frontend** and **PostgreSQL**.
 
-•	Conference Travel Grant System Website: a website for user for conference travel grant with traveling location and tuition. Using **Nodejs, Express.js, MongoDB** ang **jQuery**. https://github.com/JerryFZhang/ConferenceTravelGrantSystem
+•	<a href="https://github.com/JerryFZhang/ConferenceTravelGrantSystem"  target="_blank">Conference Travel Grant System</a>: a website for user for conference travel grant with traveling location and tuition. Using **Nodejs, Express.js, MongoDB** ang **jQuery**. 
 
 •	Weather Website: a cross-platform smart weather application that indicates temperature changes compares to the previous day to give you a better understanding of your weather. Using **DarkSky API, Bootstrap, Node.js, CSS,** and **HTML, MongoDB**. 
 <!--
 •	Amazon Clone Website: an ECommerce website that looks similar to Amazon, with product list and information, allow clients to modify shopping cart and submit shipping address and pay. Using **Nodejs**, **ReactJS**, **Redux**, **MongoDB**.
 -->
 
-•	TV Show Management Website: an website that allows users to manage TV shows (create, delete, search, update information of tv shows), Using **React, Redux, Spring Boot, PostgreSQL, Java, JavaScript.** https://github.com/ginguan/CRUD_Practice_Frontend https://github.com/ginguan/CRUD_Practice_Backend
+•	<a href="https://github.com/ginguan/CRUD_Practice_Backend"  target="_blank">TV Show Management Website</a>: An application that allows users to manage TV shows (create, delete, search, update information of tv shows) and displayed on calendar, generate today’s schedule(CSV) to user. Using **React, Redux, Spring Boot, PostgreSQL, Java, JavaScript.** https://github.com/ginguan/CRUD_Practice_Frontend 
 
-• Movie Award Web: A webpage that can search OMDB api for movies, and allow the user to save their favourite movies they feel should be up for nomination (Up to 5 nominations).  Using **HTML, Typescript, ReactJS** You can check the web page here: https://ginguan.github.io/Movie_Award/
+• <a href="https://ginguan.github.io/Movie_Award/"  target="_blank">Movie Award Web</a>: A webpage that can search OMDB api for movies, and allow the user to save their favourite movies they feel should be up for nomination (Up to 5 nominations).  Using **HTML, Typescript, ReactJS**
 
-•	Tutorials Management Application: a web application allows users create, delete, search, update information of tutorials. Using **HTML, Typescript, AngularJS**. https://github.com/ginguan/simpleTutorial
+•	<a href="https://github.com/ginguan/simpleTutorial"  target="_blank">Tutorials Management Application</a>: a web application allows users create, delete, search, update information of tutorials. Using **HTML, Typescript, AngularJS**. 
 
 ## MOBILE APP PROJECTS ## 
 
-•	Employee Mobile App: a mobile application that allows a company to store details on an employee information such as name, position, salary, picture, etc. includes camera access, images upload. Using **React Native, Node.js and express.js** and **MongoDB**. https://github.com/ginguan/employeeapp
+•	<a href="https://github.com/ginguan/employeeapp"  target="_blank">Employee Management Mobile Application</a>: a mobile application that allows a company to store details on an employee information such as name, position, salary, picture, etc. includes camera access, images upload. Using **React Native, Node.js and express.js** and **MongoDB**. 
 
-•	YouTube Clone Mobile App: a mobile application that allows user to make clone of youtube app using YouTube api. includes how to add dark mode, toggle button to toggle theme. Using **React Native**. https://github.com/ginguan/youtube-clone 
+•	<a href="https://github.com/ginguan/youtube-clone"  target="_blank">YouTube Clone Mobile App</a>: a mobile application that allows user to make clone of youtube app using YouTube api. includes how to add dark mode, toggle button to toggle theme. Using **React Native**. 
 
 •	Weather Mobile App: a mobile application that show the weather conditions of any city. includes autocomplete when user types, save city name on device storage. Using **React Native**.
 
@@ -81,10 +81,10 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 ## OTHER APP PROJECTS/SYSTMS ## 
 
-•	SM Travel Calling System: this is based on the Modelling and Simulation Study process to create High-level Conceptual Model using **Java**, detailed conceptual model and simulation program of a calling system to handle call request of a travel office. At the end, a set of experiments are designed and carried out with the simulation program that provides data sufficient to achieve the goals of the project. https://github.com/GabiRepare/SMTravel.git
+•	<a href="https://github.com/GabiRepare/SMTravel.git"  target="_blank">SM Travel Calling System</a>: this is based on the Modelling and Simulation Study process to create High-level Conceptual Model using **Java**, detailed conceptual model and simulation program of a calling system to handle call request of a travel office. At the end, a set of experiments are designed and carried out with the simulation program that provides data sufficient to achieve the goals of the project. 
 
-•	Unity 3D Game: 3D ball balance game using **Unity 3D** and **C#**.   
-https://github.com/xtstc131/CSI5147_Final_Project
+•	<a href="https://github.com/xtstc131/CSI5147_Final_Project"  target="_blank">Unity 3D Game</a>: 3D ball balance game using **Unity 3D** and **C#**.   
+
 
 •	Facial Landmark Detection and Face Mesh Export: using iOS device to detect human face and analyze facial features and export 3D face mesh. Modify face mesh deformation using **Python**.
 
