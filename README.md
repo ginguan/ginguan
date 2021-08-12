@@ -50,8 +50,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 ## PROJECTS DONE ##
 
 ## WEB APP PROJECTS ##
-•	Music Product Website: A frontend design web with 3 pages (intro, pricing, payment) with animation features. Using **ReactJS, HTML, CSS, JavaScript**
-https://github.com/ginguan/UI_Practice.git
+•	<a href="https://github.com/ginguan/UI_Practice.git"  target="_blank">Music Product Website</a>: A frontend design web with 3 pages (intro, pricing, payment) with animation features. Using **ReactJS, HTML, CSS, JavaScript**
 
 •	Login Pages: Website allow user to signup and signin using username, email, password and profile picture. The front-end is created with React Redux, React Router, Axios. Using **ReactJS, Express, HTML, CSS, JavaScript, Mongo atlas, JSON Web Token Authentication** https://github.com/ginguan/react_login.git
 
