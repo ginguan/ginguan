@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjinguan)
 
 
-**I have graduated for Master of Computer Science since August 2020 and I am currently working as a full stack developer. I have been working on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development.
-I am a team player and decision maker. My result-oriented background trained me work in a high-quality performance. fast paced and pressurized environment. A high EQ personality and analytical skills allows me to listen and evaluate carefully in order to achieve the goal.**
+**I have graduated for Master of Computer Science since August 2020 and I am currently working as a full stack developer. I have been working on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development**
 
 **You can contact me at: 📫 ginalynguan@gmail.com .**
 
