@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjinguan)
 
 
-**I am a new grad of Master of Computer Science in August 2020 and I am currently working as a full stack developer. I have more than 5-year experience
-of programming and 3-year experience developing full stack applications. I have completed different applications using HTML/CSS/JS skills and different JS frameworks and relational databases within a group or individually. 
+**I have graduated for Master of Computer Science since August 2020 and I am currently working as a full stack developer. I have been working on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development.
 I am a team player and decision maker. My result-oriented background trained me work in a high-quality performance. fast paced and pressurized environment. A high EQ personality and analytical skills allows me to listen and evaluate carefully in order to achieve the goal.**
 
 **You can contact me at: 📫 ginalynguan@gmail.com .**
@@ -25,8 +24,12 @@ I am a team player and decision maker. My result-oriented background trained me 
 ## WORK EXPERIENCE ##
 
 **Full Stack Developer / Yoppworks Inc. ->                                                               March 2021 – Present**
-- Develop mobile applications and web applications using performant, scalable and productive languages including Scala, JavaScript, CSS etc and frameworks including React, React Native.
-- Testing the system to ensure functionality and performance.
+- Develop an enterprise platform (websites and mobile app) that helps workplace managements, real estate portfolio and employees.
+- Work on product roadmap across frontend(React, React Native), backend(Scala) and database management(PostgresSQL) in an
+agile environment.
+- Operate with limited oversight to fulfill duties. Work with engineering and product manager to provide input on new features being
+developed/released
+- Responsible for writing unit/stress/regression tests for new features and integration.
 - Contribute to project teams by communicating, committing, code review, code pairing.
 - Active participation in troubleshooting, debugging and updating the current products.
 
@@ -41,7 +44,7 @@ I am a team player and decision maker. My result-oriented background trained me 
 
 •	Programming Languages:  Java, Scala, JavaScript, Python, TypeScript, HTML5, XML, CSS, PHP, SQL, , Go, C++, GraphQL, Bash
 
-•	Technologies/Tools: SQL and NoSQL databases, Git, NodeJS, ExpressJS, AngularJS, ReactJS, Android Studio, React Native, Django, Agile(Jira), Docker, Kubernetes, Google cloud platform, Microservices, Jest, kafka, ElasticSearch, Spring Boot.
+•	Technologies/Tools: Git, NodeJS, ExpressJS, AngularJS, React, Redux, Android Studio, React Native, Django, Agile, Postgres, Mongodb, MySQL, Docker, Kubernetes, Google cloud platform, REST, Microservices, Spark, Jest, Kafka, ElasticSearch, Spring Boot
 
 •	Manual/Automated Testing Skills: System & Unit Testing, Regression Testing, Load Testing, Test Cases, Plans & Scripts, Tracking, Logging & Reporting, Test Strategies & Coverages
 
