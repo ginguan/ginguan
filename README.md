@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## WORK EXPERIENCE ##
 
-**Full Stack Developer / Yoppworks Inc. ->                                                               March 2021 – Present**
+**Full Stack Developer - Yoppworks Inc./Bille App Inc. ->                                                               March 2021 – Present**
 - Develop an enterprise platform (websites and mobile app) that helps workplace managements, real estate portfolio and employees.
 - Work on product roadmap across frontend(React, React Native), backend(Scala) and database management(PostgresSQL) in an
 agile environment.
