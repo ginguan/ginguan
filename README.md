@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 **I have graduated for Master of Computer Science since August 2020 and I am currently working as a full stack developer. I have been working on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development**
 
-**You can contact me at: 📫 ginalynguan@gmail.com .**
+**You can contact me at: 📫 .**
 
 
 **I’m currently learning Spring Boot, Flutter :surfer:**
