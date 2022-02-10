@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 ***🌱 A Yelp-alike mobile app https://github.com/ginguan/Review***
 
 ## WORK EXPERIENCE ##
+**Software Engineer - Electronic Arts <img src="https://user-images.githubusercontent.com/22879067/153312026-a6f6dba0-4e14-4982-b0d1-2a8ac5549fc0.png" alt="drawing" width="2%" height="2%"/> ->                                                               January 2022 - Present**
+- Just get started!
 
-**Full Stack Developer - Yoppworks Inc./Bille App Inc. ->                                                               March 2021 – Present**
+**Full Stack Developer - Yoppworks Inc./Bille App Inc. <img src="https://user-images.githubusercontent.com/22879067/153311766-973b4fd9-f344-4d0e-8911-3fec93207894.png" alt="drawing" width="2%" height="2%"/> ->                                                               March 2021 – January 2022**
 - Develop an enterprise platform (websites and mobile app) that helps workplace managements, real estate portfolio and employees.
 - Work on product roadmap across frontend(React, React Native), backend(Scala) and database management(PostgresSQL) in an
 agile environment.
@@ -46,7 +48,6 @@ developed/released
 •	Technologies/Tools: Git, NodeJS, ExpressJS, AngularJS, React, Redux, Android Studio, React Native, Django, Agile, Postgres, Mongodb, MySQL, Docker, Kubernetes, Google cloud platform, REST, Microservices, Spark, Jest, Kafka, ElasticSearch, Spring Boot
 
 •	Manual/Automated Testing Skills: System & Unit Testing, Regression Testing, Load Testing, Test Cases, Plans & Scripts, Tracking, Logging & Reporting, Test Strategies & Coverages
-
 
 
 ## PROJECTS DONE ##
