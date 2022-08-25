@@ -44,7 +44,7 @@ developed/released
 
 •	Programming Languages:  Java, Scala, JavaScript, Python, TypeScript, HTML5, XML, CSS, PHP, SQL, , Go, C++, GraphQL, Bash
 
-•	Technologies/Tools: Git, NodeJS, ExpressJS, AngularJS, React, Redux, Android Studio, React Native, Django, Agile, Postgres, Mongodb, MySQL, Docker, Kubernetes, Google cloud platform, REST, Microservices, Spark, Jest, Kafka, ElasticSearch, Spring Boot
+•	Technologies/Tools: Git, NodeJS, ExpressJS, AngularJS, React, Redux, Android Studio, React Native, Django, Agile, Postgres, Mongodb, MySQL, Docker, Kubernetes, AWS, Google cloud platform, REST, Microservices, Spark, Jest, Kafka, ElasticSearch, Spring Boot, Grafana Labs
 
 •	Manual/Automated Testing Skills: System & Unit Testing, Regression Testing, Load Testing, Test Cases, Plans & Scripts, Tracking, Logging & Reporting, Test Strategies & Coverages
 
