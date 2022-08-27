@@ -12,16 +12,14 @@ Here are some ideas to get you started:
 **I have graduated for Master of Computer Science since August 2020 and I am currently working as a software engineer. I have been working on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development**
 
 
-
-**I’m currently learning ReactJS :surfer:**
-
-## PEOJECT WIP ##
-
-***🌱 A Yelp-alike mobile app https://github.com/ginguan/Review***
+**I’m currently learning GO  :surfer:**
 
 ## WORK EXPERIENCE ##
 **Software Engineer - Electronic Arts <img src="https://user-images.githubusercontent.com/22879067/153312026-a6f6dba0-4e14-4982-b0d1-2a8ac5549fc0.png" alt="drawing" width="2%" height="2%"/> ->                                                               January 2022 - Present**
-- Just get started!
+- Just get started! 
+- Participate in all aspects of an iterative, Agile software development process, including scoping, detailed design, effort estimation, coding, debugging, maintenance and support
+- Work with the design and product management team to build applications that delight users.
+- Partner with different teams to build integration experiences
 
 **Full Stack Developer - Yoppworks Inc./Bille App Inc. <img src="https://user-images.githubusercontent.com/22879067/153311766-973b4fd9-f344-4d0e-8911-3fec93207894.png" alt="drawing" width="2%" height="2%"/> ->                                                               March 2021 – January 2022**
 - Develop an enterprise platform (websites and mobile app) that helps workplace managements, real estate portfolio and employees.
