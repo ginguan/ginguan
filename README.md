@@ -40,7 +40,7 @@ developed/released
 
 ## SKILLS ##
 
-•	Programming Languages:  Java, Scala, JavaScript, Python, TypeScript, HTML5, XML, CSS, PHP, SQL, , Go, C++, GraphQL, Bash
+•	Programming Languages: JavaScript, TypeScript, Python, Java, Scala, HTML5, XML, CSS, PHP, SQL, Go, C++, GraphQL, Bash
 
 •	Technologies/Tools: Git, NodeJS, ExpressJS, AngularJS, React, Redux, Android Studio, React Native, Django, Agile, Postgres, Mongodb, MySQL, Docker, Kubernetes, AWS, Google cloud platform, REST, Microservices, Spark, Jest, Kafka, ElasticSearch, Spring Boot, Grafana Labs
 
