@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ## WORK EXPERIENCE ##
 **Software Engineer - Electronic Arts <img src="https://user-images.githubusercontent.com/22879067/153312026-a6f6dba0-4e14-4982-b0d1-2a8ac5549fc0.png" alt="drawing" width="2%" height="2%"/> ->                                                               January 2022 - Present**
-- Just get started! 
-- Participate in all aspects of an iterative, Agile software development process, including scoping, detailed design, effort estimation, coding, debugging, maintenance and support
+- Participate in all aspects of an iterative, Agile software development process, including requirement collections, detailed design, effort estimation, coding, debugging, maintenance and support
 - Work with the design and product management team to build applications that delight users.
 - Partner with different teams to build integration experiences
+- **Tech**: React, AWS, Node.js, Typescript, Javascript, Python.
 
 **Full Stack Developer - Yoppworks Inc./Bille App Inc. <img src="https://user-images.githubusercontent.com/22879067/153311766-973b4fd9-f344-4d0e-8911-3fec93207894.png" alt="drawing" width="2%" height="2%"/> ->                                                               March 2021 – January 2022**
 - Develop an enterprise platform (websites and mobile app) that helps workplace managements, real estate portfolio and employees.
@@ -30,7 +30,7 @@ developed/released
 - Responsible for writing unit/stress/regression tests for new features and integration.
 - Contribute to project teams by communicating, committing, code review, code pairing.
 - Active participation in troubleshooting, debugging and updating the current products.
-
+- **Tech**: React, React Native, GCP, Typescript, Javascript, Scala.
 
 ## EDUCATION ##
 
@@ -40,7 +40,7 @@ developed/released
 
 ## SKILLS ##
 
-•	Programming Languages: JavaScript, TypeScript, Python, Java, Scala, HTML5, XML, CSS, PHP, SQL, Go, C++, GraphQL, Bash
+•	Programming Languages: JavaScript, TypeScript, Python, Java, Scala, HTML5, XML, CSS, PHP, SQL, Go, GraphQL, Bash
 
 •	Technologies/Tools: Git, NodeJS, ExpressJS, AngularJS, React, Redux, Android Studio, React Native, Django, Agile, Postgres, Mongodb, MySQL, Docker, Kubernetes, AWS, Google cloud platform, REST, Microservices, Spark, Jest, Kafka, ElasticSearch, Spring Boot, Grafana Labs
 
