@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjinguan)
 
 
-**I have graduated for Master of Computer Science since August 2020 and I am currently working as a software engineer. I have been working on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development**
+**I am currently working as a software engineer and work platforms that enpower developers and player experience. I have worked on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development**
 
 
-**I’m currently learning GO  :surfer:**
+**I’m currently learning AWS and Photography  :surfer:**
 
 ## WORK EXPERIENCE ##
 **Software Engineer - Electronic Arts <img src="https://user-images.githubusercontent.com/22879067/153312026-a6f6dba0-4e14-4982-b0d1-2a8ac5549fc0.png" alt="drawing" width="2%" height="2%"/> ->                                                               January 2022 - Present**
