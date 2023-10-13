@@ -103,5 +103,6 @@ system.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginguan&layout=compact&show_icons=true)](https://github.com/ginguan/github-readme-stats)
 
-## SHARE SOME MUSI I AM LISTENING 🎧 ## 
+## SHARE SOME MUSIC I AM LISTENING 🎧 ## 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ux8hmewvah60mppog68eu8kjx&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
