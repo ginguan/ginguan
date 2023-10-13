@@ -16,21 +16,33 @@ Here are some ideas to get you started:
 
 ## WORK EXPERIENCE ##
 **Software Engineer - Electronic Arts <img src="https://user-images.githubusercontent.com/22879067/153312026-a6f6dba0-4e14-4982-b0d1-2a8ac5549fc0.png" alt="drawing" width="2%" height="2%"/> ->                                                               January 2022 - Present**
-- Participate in all aspects of an iterative, Agile software development process, including requirement collections, detailed design, effort estimation, coding, debugging, maintenance and support
-- Work with the design and product management team to build applications that delight users.
-- Partner with different teams to build integration experiences
-- **Tech**: React, AWS, Node.js, Typescript, Javascript, Python.
+- Designed and developed innovative products that enhanced game services and improved developer experience, utilizing React,
+TypeScript/JavaScript, and Node.js.
+- Participate in all aspects of an iterative, Agile software development process.
+- Implement transition from Mistral workflow systems to a more streamlined and efficient process using RESTful APIs, enhancing the
+application’s performance and scalability.
+- Design and implement user-friendly React forms to replace the previous system, improving user experience and ensuring seamless
+data collection and validation.
+- Own the requirements gathering process for key projects, identified prevalent use cases, and streamlined requirement processing
+- Collaborate with cross-functional teams to design and implement seamless integration experiences, enhancing system
+interoperability and user satisfaction.
+- Championed knowledge sharing within the team by hosting training sessions, leading to enhanced product proficiency and team
+expertise.
 
 **Full Stack Developer - Yoppworks Inc./Bille App Inc. <img src="https://user-images.githubusercontent.com/22879067/153311766-973b4fd9-f344-4d0e-8911-3fec93207894.png" alt="drawing" width="2%" height="2%"/> ->                                                               March 2021 – January 2022**
 - Develop an enterprise platform (websites and mobile app) that helps workplace managements, real estate portfolio and employees.
-- Work on product roadmap across frontend(React, React Native), backend(Scala) and database management(PostgresSQL) in an
-agile environment.
+- Designed and implemented Scala based RESTful APIs for key features.
+- Collaboratively shaped the product roadmap, integrating frontend (React, React Native), backend (Scala), and database
+management (PostgreSQL) in a dynamic agile setting.
 - Operate with limited oversight to fulfill duties. Work with engineering and product manager to provide input on new features being
-developed/released
+developed/released.
+- Improving standalone reservation system which allows users search buildings by proximity, view floorplans with amenities and
+space availability, develop integration with Google Workspace and Microsoft 365 calendar systems/ APIs to propagate changes.
+- Transition from Elastic Search to microservices APIs, rectifying data inconsistency issues and bolstering the contact tracing analytic
+system.
+- Upgrade Firebase version for React Native Applications.
 - Responsible for writing unit/stress/regression tests for new features and integration.
-- Contribute to project teams by communicating, committing, code review, code pairing.
-- Active participation in troubleshooting, debugging and updating the current products.
-- **Tech**: React, React Native, GCP, Typescript, Javascript, Scala.
+- Resolved issues caused by ineffective query optimization and pipeline failures.
 
 ## EDUCATION ##
 
