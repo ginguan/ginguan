@@ -1,9 +1,7 @@
-## Hey there 😄 , I'm Gin. ##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=3000&pause=1000&color=000000C0&random=false&width=450&lines=%F0%9F%91%8B+Hey+there%2C+I+am+Gin.+;+I'm+a+software+developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!--
 **ginguan/ginguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 **You can contact me at: 📫 .**
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjinguan)
