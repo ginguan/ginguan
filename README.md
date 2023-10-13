@@ -11,9 +11,6 @@ Here are some ideas to get you started:
 
 **I am currently working as a software engineer and work platforms that enpower developers and player experience. I have worked on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development**
 
-
-**I’m currently learning AWS and Python  :surfer:**
-
 ## WORK EXPERIENCE ##
 **Software Engineer - Electronic Arts <img src="https://user-images.githubusercontent.com/22879067/153312026-a6f6dba0-4e14-4982-b0d1-2a8ac5549fc0.png" alt="drawing" width="2%" height="2%"/> ->                                                               January 2022 - Present**
 - Designed and developed innovative products that enhanced game services and improved developer experience, utilizing React,
@@ -93,7 +90,7 @@ system.
 
 ## OTHER APP PROJECTS/SYSTMS ## 
 
-•	<a href="https://github.com/GabiRepare/SMTravel.git"  target="_blank">SM Travel Calling System</a>: this is based on the Modelling and Simulation Study process to create High-level Conceptual Model using **Java**, detailed conceptual model and simulation program of a calling system to handle call request of a travel office. At the end, a set of experiments are designed and carried out with the simulation program that provides data sufficient to achieve the goals of the project. 
+•	<a href="https://github.com/GabiRepare/SMTravel.git"  target="_blank">SM Travel Calling System</a>: this is based on the Modelling and Simulation Study process to create High-level Conceptual Model using **Java**, detailed conceptual model and simulation program of a calling system to handle call request of a travel office. At the end, a set of experiments are designed and carried out with the simulation program that provides sufficient to achieve the goals of the project. 
 
 •	<a href="https://github.com/xtstc131/CSI5147_Final_Project"  target="_blank">Unity 3D Game</a>: 3D ball balance game using **Unity 3D** and **C#**.   
 
@@ -108,3 +105,5 @@ system.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginguan&layout=compact&show_icons=true)](https://github.com/ginguan/github-readme-stats)
 
+## SHARE SOME MUSI I AM LISTENING 🎧 ## 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ux8hmewvah60mppog68eu8kjx&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
