@@ -54,9 +54,9 @@ system.
 •	Manual/Automated Testing Skills: System & Unit Testing, Regression Testing, Load Testing, Test Cases, Plans & Scripts, Tracking, Logging & Reporting, Test Strategies & Coverages
 
 
-## PROJECTS DONE ##
-
-## WEB APP PROJECTS ##
+## PERSONAL PROJECTS DONE ##
+<details>
+ <summary><b>WEB APP PROJECTS </b></summary>
 •	<a href="https://github.com/ginguan/UI_Practice.git"  target="_blank">Music Product Website</a>: A frontend design web with 3 pages (intro, pricing, payment) with animation features. Using **ReactJS, HTML, CSS, JavaScript**
 
 •	<a href="https://github.com/ginguan/react_login.git"  target="_blank">JWT Authentication System</a>: Website allow user to signup and signin using username, email, password and profile picture. The front-end is created with React Redux, React Router, Axios. Using **ReactJS, Express, HTML, CSS, JavaScript, Mongo atlas, JSON Web Token Authentication** 
@@ -75,8 +75,10 @@ system.
 • <a href="https://ginguan.github.io/Movie_Award/"  target="_blank">Movie Award Web</a>: A webpage that can search OMDB api for movies, and allow the user to save their favourite movies they feel should be up for nomination (Up to 5 nominations).  Using **HTML, Typescript, ReactJS**
 
 •	<a href="https://github.com/ginguan/simpleTutorial"  target="_blank">Tutorials Management Application</a>: a web application allows users create, delete, search, update information of tutorials. Using **HTML, Typescript, AngularJS**. 
+</details>
 
-## MOBILE APP PROJECTS ## 
+<details>
+ <summary><b>MOBILE APP PROJECTS </b></summary>
 
 •	<a href="https://github.com/ginguan/employeeapp"  target="_blank">Employee Management Mobile Application</a>: a mobile application that allows a company to store details on an employee information such as name, position, salary, picture, etc. includes camera access, images upload. Using **React Native, Node.js and express.js** and **MongoDB**. 
 
@@ -85,8 +87,10 @@ system.
 •	Weather Mobile App: a mobile application that show the weather conditions of any city. includes autocomplete when user types, save city name on device storage. Using **React Native**.
 
 •	Football Tournament Android Application: an android application that allows users to set and fill information for the knockout, round robin and knockout round robin tournaments. Frontend using **Android Studio** with XML and backend using **Java** programming.
+</details>
 
-## OTHER APP PROJECTS/SYSTMS ## 
+<details>
+ <summary><b>OTHER APP PROJECTS/SYSTEMS</b></summary>
 
 •	<a href="https://github.com/GabiRepare/SMTravel.git"  target="_blank">SM Travel Calling System</a>: this is based on the Modelling and Simulation Study process to create High-level Conceptual Model using **Java**, detailed conceptual model and simulation program of a calling system to handle call request of a travel office. At the end, a set of experiments are designed and carried out with the simulation program that provides sufficient to achieve the goals of the project. 
 
@@ -100,6 +104,7 @@ system.
 •	Product Pricing from Crowdsourcing Data Mart: a project involving large scale dataset for physical design of datamart, data staging, OLAP queries, business intelligence dashboard, and data visualization. Using **Microsoft SQL, Knime**. 
 
 •	Car Rental System: A simple **Java** system that allows users to rent car for choosing dates, car model and get a total summary for final expenses. 
+</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginguan&layout=compact&show_icons=true)](https://github.com/ginguan/github-readme-stats)
 
