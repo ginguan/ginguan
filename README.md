@@ -39,11 +39,10 @@ system.
 - Responsible for writing unit/stress/regression tests for new features and integration.
 - Resolved issues caused by ineffective query optimization and pipeline failures.
 
-## EDUCATION ##
+## EDUCATION  ##
+•	**Master of Computer Science** - University of Ottawa  -> Sep 2018 – Aug 2020
 
-**•	Master of Computer Science ->                                                               September 2018 – August 2020**
-
-**•	Honours Bachelor of Science - Engineering: Specialized in Computer Science -> September 2014 – June 2018**
+•	**Honours Bachelor of Science - Engineering: Specialized in Computer Science** - University of Ottawa -> Sep 2014 – June 2018
 
 ## SKILLS ##
 
