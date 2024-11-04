@@ -4,7 +4,7 @@
 **ginguan/ginguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **You can contact me at: 📫 .**
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yingjinguan)
+[![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ginguan)
 
 
 **I am currently working as a software engineer and work platforms that enpower developers and player experience. I have worked on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development**
