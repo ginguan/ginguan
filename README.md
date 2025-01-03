@@ -7,14 +7,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ginguan)
 
 
-**I am a dynamic and innovative software developer with over 3 years of professional experience in full-stack technologies.
+## ABOUT ME   😎 ##
+I am a dynamic and innovative software developer with over 3 years of professional experience in full-stack technologies.
 Specializing in building scalable, customer-centric applications, I have strong expertise in JavaScript, TypeScript, React, and Node.js,
 developing robust solutions that significantly enhance user experience and operational efficiency. I have a proven track record of
 successfully delivering complex systems, including products that have improved game services and developer experiences. I am eager
 to contribute my advanced technical skills, strategic problem-solving abilities, and commitment to excellence to drive the design and
 deployment of impactful services.**
 
-## WORK EXPERIENCE ##
+## WORK EXPERIENCE 👩🏻‍💻 ## 
+
 **Software Engineer - Electronic Arts <img src="https://user-images.githubusercontent.com/22879067/153312026-a6f6dba0-4e14-4982-b0d1-2a8ac5549fc0.png" alt="drawing" width="2%" height="2%"/> ->                                                               January 2022 - Present**
 - Designed and developed innovative products that enhanced game services and improved developer experience, utilizing React,
 TypeScript/JavaScript, and Node.js.
@@ -44,12 +46,12 @@ system.
 - Responsible for writing unit/stress/regression tests for new features and integration.
 - Resolved issues caused by ineffective query optimization and pipeline failures.
 
-## EDUCATION  ##
+## EDUCATION  👩‍🎓 ##
 •	**Master of Computer Science** - University of Ottawa  -> Sep 2018 – Aug 2020
 
 •	**Honours Bachelor of Science - Engineering: Specialized in Computer Science** - University of Ottawa -> Sep 2014 – June 2018
 
-## SKILLS ##
+## SKILLS 🛠️ ##
 
 •	Programming Languages: JavaScript, TypeScript, Python, Java, Scala, HTML5, XML, CSS, PHP, SQL, Go, GraphQL, Bash
 
@@ -58,7 +60,7 @@ system.
 •	Manual/Automated Testing Skills: System & Unit Testing, Regression Testing, Load Testing, Test Cases, Plans & Scripts, Tracking, Logging & Reporting, Test Strategies & Coverages
 
 
-## PERSONAL PROJECTS DONE ##
+## PERSONAL PROJECTS DONE 🗂️ ##
 <details>
  <summary><b>WEB APP PROJECTS </b></summary>
 •	<a href="https://github.com/ginguan/UI_Practice.git"  target="_blank">Music Product Website</a>: A frontend design web with 3 pages (intro, pricing, payment) with animation features. Using **ReactJS, HTML, CSS, JavaScript**
