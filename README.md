@@ -7,7 +7,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ginguan)
 
 
-**I am currently working as a software engineer and work platforms that enpower developers and player experience. I have worked on developing the enterprise platform including web and mobile applications that helps workplace managements. I mainly focus on full stack applications, and have established different applications using JS Frameworks and databases within a group or individually. I have experience working with Agile software development methodology and test driven development**
+**I am a dynamic and innovative software developer with over 3 years of professional experience in full-stack technologies.
+Specializing in building scalable, customer-centric applications, I have strong expertise in JavaScript, TypeScript, React, and Node.js,
+developing robust solutions that significantly enhance user experience and operational efficiency. I have a proven track record of
+successfully delivering complex systems, including products that have improved game services and developer experiences. I am eager
+to contribute my advanced technical skills, strategic problem-solving abilities, and commitment to excellence to drive the design and
+deployment of impactful services.**
 
 ## WORK EXPERIENCE ##
 **Software Engineer - Electronic Arts <img src="https://user-images.githubusercontent.com/22879067/153312026-a6f6dba0-4e14-4982-b0d1-2a8ac5549fc0.png" alt="drawing" width="2%" height="2%"/> ->                                                               January 2022 - Present**
