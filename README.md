@@ -8,109 +8,228 @@
 
 
 ## ABOUT ME   😎 ##
-I am a dynamic and innovative software developer with over 3 years of professional experience in full-stack technologies.
-Specializing in building scalable, customer-centric applications, I have strong expertise in JavaScript, TypeScript, React, and Node.js,
-developing robust solutions that significantly enhance user experience and operational efficiency. I have a proven track record of
-successfully delivering complex systems, including products that have improved game services and developer experiences. I am eager
-to contribute my advanced technical skills, strategic problem-solving abilities, and commitment to excellence to drive the design and
-deployment of impactful services.**
+I’m a full-stack engineer with 4+ years of experience building **scalable frontend systems, internal platforms, developer tooling, and high-impact product features**.  
+My strengths are in **React, TypeScript, Node.js, Python**, and cloud environments like **AWS**, where I create tools that improve performance, reliability, and developer experience.
 
-## WORK EXPERIENCE 👩🏻‍💻 ## 
+I’m passionate about:
+- turning complex systems into clean, intuitive experiences  
+- improving developer productivity through automation & internal tooling  
+- building features that balance performance, reliability, and simplicity  
+- delivering high-quality software in fast-moving, collaborative teams  
 
-**Software Engineer - Electronic Arts <img src="https://user-images.githubusercontent.com/22879067/153312026-a6f6dba0-4e14-4982-b0d1-2a8ac5549fc0.png" alt="drawing" width="2%" height="2%"/> ->                                                               January 2022 - Present**
-- Designed and developed innovative products that enhanced game services and improved developer experience, utilizing React,
-TypeScript/JavaScript, and Node.js.
-- Participate in all aspects of an iterative, Agile software development process.
-- Implement transition from Mistral workflow systems to a more streamlined and efficient process using RESTful APIs, enhancing the
-application’s performance and scalability.
-- Design and implement user-friendly React forms to replace the previous system, improving user experience and ensuring seamless
-data collection and validation.
-- Own the requirements gathering process for key projects, identified prevalent use cases, and streamlined requirement processing
-- Collaborate with cross-functional teams to design and implement seamless integration experiences, enhancing system
-interoperability and user satisfaction.
-- Championed knowledge sharing within the team by hosting training sessions, leading to enhanced product proficiency and team
-expertise.
+---
 
-**Full Stack Developer - Yoppworks Inc./Bille App Inc. <img src="https://user-images.githubusercontent.com/22879067/153311766-973b4fd9-f344-4d0e-8911-3fec93207894.png" alt="drawing" width="2%" height="2%"/> ->                                                               March 2021 – January 2022**
-- Develop an enterprise platform (websites and mobile app) that helps workplace managements, real estate portfolio and employees.
-- Designed and implemented Scala based RESTful APIs for key features.
-- Collaboratively shaped the product roadmap, integrating frontend (React, React Native), backend (Scala), and database
-management (PostgreSQL) in a dynamic agile setting.
-- Operate with limited oversight to fulfill duties. Work with engineering and product manager to provide input on new features being
-developed/released.
-- Improving standalone reservation system which allows users search buildings by proximity, view floorplans with amenities and
-space availability, develop integration with Google Workspace and Microsoft 365 calendar systems/ APIs to propagate changes.
-- Transition from Elastic Search to microservices APIs, rectifying data inconsistency issues and bolstering the contact tracing analytic
-system.
-- Upgrade Firebase version for React Native Applications.
-- Responsible for writing unit/stress/regression tests for new features and integration.
-- Resolved issues caused by ineffective query optimization and pipeline failures.
+## 💼 Work Experience
 
-## EDUCATION  👩‍🎓 ##
-•	**Master of Computer Science** - University of Ottawa  -> Sep 2018 – Aug 2020
+### **Software Engineer — Electronic Arts (2022 — Present)**  
+Building internal tools & developer platforms that power multiple game services and engineering teams.
 
-•	**Honours Bachelor of Science - Engineering: Specialized in Computer Science** - University of Ottawa -> Sep 2014 – June 2018
+- Designed and delivered internal-facing products using **React, TypeScript, Node.js**, improving developer workflows and system visibility.
+- Built reusable UI components and tooling used across **5+ teams**, improving consistency and reducing duplicated work.
+- Automated DynamoDB config updates using **Python scripts**, creating safe, repeatable, team-wide data operations.
+- Migrated legacy Mistral workflows to modern **RESTful APIs**, increasing system performance and reducing operational overhead.
+- Designed user-friendly React forms and dashboards, improving UX, data accuracy, and validation flow.
+- Collaborated cross-functionally (PMs, UX, backend teams) to design smooth integration experiences across systems.
+- Championed team knowledge-sharing through demos, documentation, and onboarding support.
 
-## SKILLS 🛠️ ##
+---
 
-•	Programming Languages: JavaScript, TypeScript, Python, Java, Scala, HTML5, XML, CSS, PHP, SQL, Go, GraphQL, Bash
+### **Full-Stack Developer — Yoppworks / Bille App Inc. (2021 — 2022)**  
+Worked across web, mobile, backend, and integrations for a workplace management platform.
 
-•	Technologies/Tools: Git, NodeJS, ExpressJS, AngularJS, React, Redux, Android Studio, React Native, Django, Agile, Postgres, Mongodb, MySQL, Docker, Kubernetes, AWS, Google cloud platform, REST, Microservices, Spark, Jest, Kafka, ElasticSearch, Spring Boot, Grafana Labs
+- Built responsive **React + React Native** interfaces integrated with **Scala/PostgreSQL** microservices.
+- Designed and implemented **Scala REST APIs** powering core platform features.
+- Integrated with **Google Workspace & Microsoft 365 Calendar APIs**, improving reservation workflow reliability by **35%**.
+- Replaced ElasticSearch dependency with microservices-based querying, resolving data consistency issues.
+- Upgraded Firebase authentication flows and strengthened app security.
+- Built unit, integration, and regression test suites using **Jest** and internal tools.
+- Fixed performance issues related to inefficient queries and pipeline failures.
 
-•	Manual/Automated Testing Skills: System & Unit Testing, Regression Testing, Load Testing, Test Cases, Plans & Scripts, Tracking, Logging & Reporting, Test Strategies & Coverages
+---
 
+## 🎓 Education
 
-## PERSONAL PROJECTS DONE 🗂️ ##
-<details>
- <summary><b>WEB APP PROJECTS </b></summary>
-•	<a href="https://github.com/ginguan/UI_Practice.git"  target="_blank">Music Product Website</a>: A frontend design web with 3 pages (intro, pricing, payment) with animation features. Using **ReactJS, HTML, CSS, JavaScript**
+- **Master of Computer Science**, University of Ottawa  
+- **Honours Bachelor of Science, Computer Science**, University of Ottawa  
 
-•	<a href="https://github.com/ginguan/react_login.git"  target="_blank">JWT Authentication System</a>: Website allow user to signup and signin using username, email, password and profile picture. The front-end is created with React Redux, React Router, Axios. Using **ReactJS, Express, HTML, CSS, JavaScript, Mongo atlas, JSON Web Token Authentication** 
+---
 
-•	Movie Database Website: a website allows user to search for movies/actors/directors and provides recommendation from different ranking, categories, set preferences, score the movies and write reviews. Using **PHP** to connect database and backend, **CSS, and HTML for frontend** and **PostgreSQL**.
+## 🛠️ Skills
 
-•	<a href="https://github.com/JerryFZhang/ConferenceTravelGrantSystem"  target="_blank">Conference Travel Grant System</a>: a website for user for conference travel grant with traveling location and tuition. Using **Nodejs, Express.js, MongoDB** ang **jQuery**. 
+**Languages:**  
+JavaScript, TypeScript, Python, Java, Scala, Go, SQL, PHP, GraphQL, Bash  
 
-•	Weather Website: a cross-platform smart weather application that indicates temperature changes compares to the previous day to give you a better understanding of your weather. Using **DarkSky API, Bootstrap, Node.js, CSS,** and **HTML, MongoDB**. 
-<!--
-•	Amazon Clone Website: an ECommerce website that looks similar to Amazon, with product list and information, allow clients to modify shopping cart and submit shipping address and pay. Using **Nodejs**, **ReactJS**, **Redux**, **MongoDB**.
--->
+**Frontend:**  
+React, React Native, Redux, AngularJS, HTML5, CSS3  
 
-•	<a href="https://github.com/ginguan/CRUD_Practice_Backend"  target="_blank">TV Show Management Website</a>: An application that allows users to manage TV shows (create, delete, search, update information of tv shows) and displayed on calendar, generate today’s schedule(CSV) to user. Using **React, Redux, Spring Boot, PostgreSQL, Java, JavaScript.** https://github.com/ginguan/CRUD_Practice_Frontend 
+**Backend & DevOps:**  
+Node.js, Express, Django, Spring Boot, REST APIs, gRPC, Microservices, Docker, Kubernetes  
 
-• <a href="https://ginguan.github.io/Movie_Award/"  target="_blank">Movie Award Web</a>: A webpage that can search OMDB api for movies, and allow the user to save their favourite movies they feel should be up for nomination (Up to 5 nominations).  Using **HTML, Typescript, ReactJS**
+**Cloud:**  
+AWS (Lambda, S3, DynamoDB), GCP, Kubernetes, Grafana, Kafka, Spark  
 
-•	<a href="https://github.com/ginguan/simpleTutorial"  target="_blank">Tutorials Management Application</a>: a web application allows users create, delete, search, update information of tutorials. Using **HTML, Typescript, AngularJS**. 
-</details>
+**Testing:**  
+Unit, Integration, Regression, Load Testing, Cypress, Jest, Test Strategies, Monitoring & Logging  
 
-<details>
- <summary><b>MOBILE APP PROJECTS </b></summary>
+**Tools:**  
+Git, CI/CD, Postgres, MongoDB, MySQL, ElasticSearch, Grafana, Agile  
 
-•	<a href="https://github.com/ginguan/employeeapp"  target="_blank">Employee Management Mobile Application</a>: a mobile application that allows a company to store details on an employee information such as name, position, salary, picture, etc. includes camera access, images upload. Using **React Native, Node.js and express.js** and **MongoDB**. 
+---
 
-•	<a href="https://github.com/ginguan/youtube-clone"  target="_blank">YouTube Clone Mobile App</a>: a mobile application that allows user to make clone of youtube app using YouTube api. includes how to add dark mode, toggle button to toggle theme. Using **React Native**. 
+## 📌 Fun Facts  
+- I love building developer tools that automate repetitive work and improve DX.  
+- I’m always exploring AI-assisted development, LLM workflows, and documentation automation.  
+- I enjoy simplifying complex systems into intuitive user experiences.  
 
-•	Weather Mobile App: a mobile application that show the weather conditions of any city. includes autocomplete when user types, save city name on device storage. Using **React Native**.
-
-•	Football Tournament Android Application: an android application that allows users to set and fill information for the knockout, round robin and knockout round robin tournaments. Frontend using **Android Studio** with XML and backend using **Java** programming.
-</details>
+## 🗂️ PERSONAL PROJECTS
 
 <details>
- <summary><b>OTHER APP PROJECTS/SYSTEMS</b></summary>
+ <summary><b>⭐ AI & DEVELOPER TOOLING PROJECTS</b></summary>
 
-•	<a href="https://github.com/GabiRepare/SMTravel.git"  target="_blank">SM Travel Calling System</a>: this is based on the Modelling and Simulation Study process to create High-level Conceptual Model using **Java**, detailed conceptual model and simulation program of a calling system to handle call request of a travel office. At the end, a set of experiments are designed and carried out with the simulation program that provides sufficient to achieve the goals of the project. 
+### **AI-Powered README Generator**  
+**Kotlin · gRPC · REST · Temporal · Local LLM · Automation**  
+- Built a continuous documentation tool that automatically updates backend README files after new commits.  
+- Created hybrid extractors to parse **gRPC services and REST endpoints**, surfacing interface definitions directly from code.  
+- Integrated a **local LLM** to generate secure, natural-language API explanations and workflow descriptions.  
+- Generated **Mermaid architecture diagrams** and Temporal workflow visualizations to accelerate onboarding.  
+- Designed to run safely in CI pipelines with full offline support (no external LLM calls).  
 
-•	<a href="https://github.com/xtstc131/CSI5147_Final_Project"  target="_blank">Unity 3D Game</a>: 3D ball balance game using **Unity 3D** and **C#**.   
-
-
-•	Facial Landmark Detection and Face Mesh Export: using iOS device to detect human face and analyze facial features and export 3D face mesh. Modify face mesh deformation using **Python**.
-
-•	 Implement Machine Learning Algoithm for Predicting Online Bids are Made by Robot or Human: using **MySQL** to preprocess the dataset and using Jupyter Notebook(**Python**) for algorithm implementation. 
-
-•	Product Pricing from Crowdsourcing Data Mart: a project involving large scale dataset for physical design of datamart, data staging, OLAP queries, business intelligence dashboard, and data visualization. Using **Microsoft SQL, Knime**. 
-
-•	Car Rental System: A simple **Java** system that allows users to rent car for choosing dates, car model and get a total summary for final expenses. 
 </details>
+
+---
+
+<details>
+ <summary><b>💻 WEB APP PROJECTS</b></summary>
+
+### **Music Product Website**  
+🔗 <a href="https://github.com/ginguan/UI_Practice.git" target="_blank">Repo Link</a>  
+**React, JavaScript, HTML, CSS**  
+A 3-page animated product showcase (Intro, Pricing, Payment) demonstrating interactive UI/UX and component composition.
+
+---
+
+### **JWT Authentication System**  
+🔗 <a href="https://github.com/ginguan/react_login.git" target="_blank">Repo Link</a>  
+**React, Redux, React Router, Axios, Node.js, Express, MongoDB, JWT**  
+A full authentication flow with protected routes, user signup/login, and profile photo upload.
+
+---
+
+### **Movie Database Website**  
+**PHP, PostgreSQL, HTML, CSS**  
+Movie search platform allowing users to browse movies/actors, set preferences, add reviews, and generate recommendations.
+
+---
+
+### **Conference Travel Grant System**  
+🔗 <a href="https://github.com/JerryFZhang/ConferenceTravelGrantSystem" target="_blank">Repo Link</a>  
+**Node.js, Express.js, MongoDB, jQuery**  
+A workflow web application for users to submit, track, and manage travel grant applications.
+
+---
+
+### **Weather Website**  
+**Node.js, Bootstrap, MongoDB, DarkSky API**  
+Cross-platform weather dashboard with saved locations and day-over-day weather comparison.
+
+---
+
+### **TV Show Management Platform**  
+Frontend: <a href="https://github.com/ginguan/CRUD_Practice_Frontend" target="_blank">Repo</a>  
+Backend: <a href="https://github.com/ginguan/CRUD_Practice_Backend" target="_blank">Repo</a>  
+**React, Redux, Spring Boot, PostgreSQL, Java**  
+CRUD application for managing TV shows, calendar views, and CSV schedule exports.
+
+---
+
+### **Movie Award Web App**  
+🔗 <a href="https://ginguan.github.io/Movie_Award/" target="_blank">Live Demo</a>  
+**React, TypeScript, OMDB API**  
+Users can search movies and create up to 5 nominations.
+
+---
+
+### **Tutorials Management Application**  
+🔗 <a href="https://github.com/ginguan/simpleTutorial" target="_blank">Repo Link</a>  
+**AngularJS, TypeScript, HTML**  
+CRUD tool for managing technical tutorials.
+
+</details>
+
+---
+
+<details>
+ <summary><b>📱 MOBILE APP PROJECTS</b></summary>
+
+### **Employee Management Mobile App**  
+🔗 <a href="https://github.com/ginguan/employeeapp" target="_blank">Repo Link</a>  
+**React Native, Node.js, MongoDB**  
+Stores and displays employee details with camera/photo upload and device storage.
+
+---
+
+### **YouTube Clone Mobile App**  
+🔗 <a href="https://github.com/ginguan/youtube-clone" target="_blank">Repo Link</a>  
+**React Native**  
+Implements YouTube-like UI, theme toggle, and content fetching via YouTube API.
+
+---
+
+### **Weather Mobile App**  
+**React Native**  
+Weather viewer with autocomplete search and saved preferences.
+
+---
+
+### **Football Tournament Android App**  
+**Android Studio (XML), Java**  
+Tournament generator supporting knockout, round-robin, and hybrid game flows.
+
+</details>
+
+---
+
+<details>
+ <summary><b>🧩 OTHER PROJECTS & SYSTEMS</b></summary>
+
+### **SM Travel Calling System**  
+🔗 <a href="https://github.com/GabiRepare/SMTravel.git" target="_blank">Repo Link</a>  
+**Java**  
+Call-center simulation system based on modelling and experimentation workflows.
+
+---
+
+### **Unity 3D Ball Balance Game**  
+🔗 <a href="https://github.com/xtstc131/CSI5147_Final_Project" target="_blank">Repo Link</a>  
+**Unity, C#**  
+Physics-based 3D balance game with custom movement and level design.
+
+---
+
+### **Facial Landmark & 3D Mesh Export Tool**  
+**iOS Face APIs, Python**  
+Detects facial landmarks and exports deformable 3D face meshes for analysis and editing.
+
+---
+
+### **Bot vs Human Bid Prediction**  
+**Python, MySQL, Jupyter Notebook**  
+ML system that predicts whether online bids were human- or bot-generated.
+
+---
+
+### **Crowdsourced Product Pricing Data Mart**  
+**Microsoft SQL, KNIME**  
+Designed an OLAP-capable data mart with dashboards, KPIs, and business intelligence workflows.
+
+---
+
+### **Car Rental System**  
+**Java**  
+Rental management system for bookings, vehicle selection, and summary generation.
+
+</details>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginguan&layout=compact&show_icons=true)](https://github.com/ginguan/github-readme-stats)
 
