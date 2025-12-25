@@ -7,75 +7,62 @@
 [![Linkedin Badge](https://img.shields.io/badge/-YingjinGuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ginguan)
 
 
-## ABOUT ME   😎 ##
-I’m a full-stack engineer with 4+ years of experience building **scalable frontend systems, internal platforms, developer tooling, and high-impact product features**.  
-My strengths are in **React, TypeScript, Node.js, Python**, and cloud environments like **AWS**, where I create tools that improve performance, reliability, and developer experience.
+## 👋 About Me
 
-I’m passionate about:
-- turning complex systems into clean, intuitive experiences  
-- improving developer productivity through automation & internal tooling  
-- building features that balance performance, reliability, and simplicity  
-- delivering high-quality software in fast-moving, collaborative teams  
+I’m a full-stack engineer with **5 years of experience** building **developer-facing platforms, internal tools, and scalable product features**.  
+I specialize in **React, TypeScript, Node.js, Kotlin, and Python**, working extensively with cloud infrastructure on **AWS**. My work focuses on performance, automation, and improving developer experience through well-designed internal systems.
+
+I enjoy:
+- Turning complex systems into clean, intuitive tools
+- Replacing manual workflows with reliable automation
+- Improving developer productivity through internal platforms and tooling
+- Building software that balances speed, quality, and long-term maintainability
 
 ---
 
 ## 💼 Work Experience
 
-### **Software Engineer — Electronic Arts (2022 — Present)**  
-Building internal tools & developer platforms that power multiple game services and engineering teams.
+### **Full Stack Developer — Electronic Arts (Jan 2022 — Present)**  
+Building internal platforms and tools that support multiple game services and engineering teams.
 
-- Designed and delivered internal-facing products using **React, TypeScript, Node.js**, improving developer workflows and system visibility.
-- Built reusable UI components and tooling used across **5+ teams**, improving consistency and reducing duplicated work.
-- Automated DynamoDB config updates using **Python scripts**, creating safe, repeatable, team-wide data operations.
-- Migrated legacy Mistral workflows to modern **RESTful APIs**, increasing system performance and reducing operational overhead.
-- Designed user-friendly React forms and dashboards, improving UX, data accuracy, and validation flow.
-- Collaborated cross-functionally (PMs, UX, backend teams) to design smooth integration experiences across systems.
-- Championed team knowledge-sharing through demos, documentation, and onboarding support.
+- Contributed to the design and development of a **greenfield internal platform built from scratch** that automates onboarding and provisioning for services, replacing manual workflows with fully automated setup.
+- Co-owned frontend architecture while contributing across the stack; built interfaces and APIs to manage service configuration, state, and lifecycle.
+- Built highly responsive **React/TypeScript** interfaces and reusable UI components used across multiple teams, accelerating feature development and improving consistency.
+- Delivered end-to-end product features using **React, Node.js, Kotlin and AWS**, iterating rapidly based on feedback and performance metrics.
+- Improved UI performance through memoization, code-splitting, and render optimization, improving responsiveness across devices.
+- Contributed to operational excellence through **Grafana dashboards and alerting**, improving visibility into system health and uptime.
+- Supported onboarding and knowledge sharing through documentation, demos, and internal collaboration.
 
 ---
 
-### **Full-Stack Developer — Yoppworks / Bille App Inc. (2021 — 2022)**  
-Worked across web, mobile, backend, and integrations for a workplace management platform.
+### **Full Stack Developer — Bille Inc (formerly Yoppworks) (Mar 2021 — Jan 2022)**  
+Worked across web, mobile, backend services, and integrations for an enterprise workplace management platform.
 
-- Built responsive **React + React Native** interfaces integrated with **Scala/PostgreSQL** microservices.
-- Designed and implemented **Scala REST APIs** powering core platform features.
-- Integrated with **Google Workspace & Microsoft 365 Calendar APIs**, improving reservation workflow reliability by **35%**.
-- Replaced ElasticSearch dependency with microservices-based querying, resolving data consistency issues.
-- Upgraded Firebase authentication flows and strengthened app security.
-- Built unit, integration, and regression test suites using **Jest** and internal tools.
-- Fixed performance issues related to inefficient queries and pipeline failures.
+- Built responsive **React and React Native** frontends integrated with **Scala/PostgreSQL** microservices.
+- Implemented **Google Workspace and Microsoft 365 calendar integrations**, improving workflow reliability by **35%**.
+- Replaced an ElasticSearch-based architecture with microservices to improve data consistency and availability.
 
 ---
 
 ## 🎓 Education
 
 - **Master of Computer Science**, University of Ottawa  
-- **Honours Bachelor of Science, Computer Science**, University of Ottawa  
+- **Bachelor of Engineering, Computer Science**, University of Ottawa  
 
 ---
 
 ## 🛠️ Skills
 
-**Languages:**  
-JavaScript, TypeScript, Python, Java, Scala, Go, SQL, PHP, GraphQL, Bash  
+**Frontend & UI**  
+React, React Native, TypeScript, JavaScript, HTML5, CSS3, Material UI, Ant Design  
 
-**Frontend:**  
-React, React Native, Redux, AngularJS, HTML5, CSS3  
+**Backend & APIs**  
+Node.js, Python, Kotlin, REST APIs, gRPC, Microservices  
 
-**Backend & DevOps:**  
-Node.js, Express, Django, Spring Boot, REST APIs, gRPC, Microservices, Docker, Kubernetes  
-
-**Cloud:**  
-AWS (Lambda, S3, DynamoDB), GCP, Kubernetes, Grafana, Kafka, Spark  
-
-**Testing:**  
-Unit, Integration, Regression, Load Testing, Cypress, Jest, Test Strategies, Monitoring & Logging  
-
-**Tools:**  
-Git, CI/CD, Postgres, MongoDB, MySQL, ElasticSearch, Grafana, Agile  
+**Cloud & DevOps**  
+AWS, GCP, Docker, Kubernetes, Terraform, Grafana  
 
 ---
-
 ## 📌 Fun Facts  
 - I love building developer tools that automate repetitive work and improve DX.  
 - I’m always exploring AI-assisted development, LLM workflows, and documentation automation.  
